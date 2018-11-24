@@ -3,10 +3,10 @@
 ### This project is for Participation in Research Program of Shanghai Jiao Tong University(PRP)
 
 #### Topic: Rope simulation for virtual surgery teaching system
-We achieved the simulation of rope including movement and knotting and visualized it using Unity3D.
+We achieved the simulation of rope including movement and knotting and visualized it in Unity3D.
 This work is part of the virtual surgery teaching system Project.
 
-__Here are some demo picture__
+### Here are some demo picture
 
 ### Knot a simple knot:
 
