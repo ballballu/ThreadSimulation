@@ -1,0 +1,5 @@
+LIBRARY"threadSimulation"
+initSimulation @1
+simulate1 @2
+simulate2 @3
+copySimulationResult @4
