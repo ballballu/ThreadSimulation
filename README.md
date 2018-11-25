@@ -6,7 +6,7 @@
 We achieved the simulation of rope including movement and knotting and visualized it in Unity3D.
 This work is part of the virtual surgery teaching system Project.
 
-#### For demo video, please open the [video_knot.html](video_knot.html) in your browseer.
+#### For demo video, please click [here](https://ballballu.github.io/ThreadSimulation/video_knot.html) in your browseer.
 
 ## Here are some demo picture
 
